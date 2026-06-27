@@ -433,7 +433,7 @@
         <div class="form__row">
           <div class="form__group">
             <label for="telefono">Teléfono</label>
-            <input type="tel" id="telefono" name="telefono" autocomplete="tel" placeholder="+56 9 1234 5678" required />
+            <input type="tel" id="telefono" name="telefono" autocomplete="tel" placeholder="+54 9 2634 276698" required />
             <span class="form__error" data-for="telefono"></span>
           </div>
           <div class="form__group">
@@ -565,7 +565,7 @@
   </footer>
 
   <!-- ===================== WHATSAPP FLOTANTE ===================== -->
-  <a href="https://wa.me/5492634276698?text=Hola%20VIKINGO'S,%20quiero%20reservar%20un%20turno"
+  <a href="https://wa.me/+5492634276698?text=Hola%20VIKINGO'S,%20quiero%20reservar%20un%20turno"
      class="wa-float" id="waFloat" target="_blank" rel="noopener" aria-label="Escribir por WhatsApp" data-cursor="hover">
     <svg viewBox="0 0 24 24" width="30" height="30" aria-hidden="true"><path d="M12 3a9 9 0 00-7.7 13.6L3 21l4.5-1.2A9 9 0 1012 3Zm5 12.5c-.2.6-1.2 1.1-1.7 1.1-.4 0-1 .1-3.4-1-2.9-1.4-4.6-4.5-4.7-4.7-.1-.2-1-1.4-1-2.7 0-1.2.6-1.8.9-2 .2-.2.5-.3.7-.3h.5c.2 0 .4 0 .6.5l.8 2c0 .2.1.3 0 .5l-.4.6c-.2.2-.3.4-.1.7.2.3.9 1.4 1.9 2 .8.6 1.3.7 1.6.6l.6-.7c.2-.3.4-.2.6-.1l1.8.9c.3.1.4.2.5.3.1.2.1.7-.1 1.3Z" fill="currentColor"/></svg>
   </a>
