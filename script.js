@@ -20,7 +20,7 @@
 
   /* ============ CONFIGURACIÓN RÁPIDA ============ */
   // Cambiá el número una sola vez acá (formato internacional, sin +, espacios ni guiones).
-  const WHATSAPP_NUMBER = '56912345678';
+  const WHATSAPP_NUMBER = '5492634276698';
 
   const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
