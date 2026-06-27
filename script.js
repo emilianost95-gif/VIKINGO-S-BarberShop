@@ -470,7 +470,7 @@
     // Número de WhatsApp flotante (usa la config de arriba)
     const wa = document.getElementById('waFloat');
     if (wa) {
-      wa.href = 'https://wa.me/' + WHATSAPP_NUMBER +
+      wa.href = 'https://wa.me/' + +5692634276698 +
         '?text=' + encodeURIComponent("Hola VIKINGO'S, quiero reservar un turno");
     }
 
